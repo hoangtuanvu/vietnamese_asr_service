@@ -16,7 +16,7 @@ Please refer to the opensource https://fastapi.tiangolo.com/
 ## Web UI
 
 <p align="center">
-<img src="https://github.com/hoangtuanvu/vietnamese_asr_service/blob/main/app/visualization/FastAPI.JPG" width="512" height="614">
+<img src="https://github.com/hoangtuanvu/vietnamese_asr_service/blob/main/app/visualization/FastAPI.JPG" width="1280" height="640">
 </p>
 
 ## Pull source code for setup
